@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    color: white;
+}
+img{
+    width: auto;
+    height: 200px;
+    align-items: center;
+}
+.yellow-black{
+    background-color: yellow;
+    color: black;
+}
+
+.yellow-black li{
+    background-color: yellow;
+    color: black;
+}
+
+h1{
+    color: yellow;
+}
+p{
+    color: white;
+}
